@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="70" tilewidth="8" tileheight="8">
+ <layer name="Camera" width="45" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAMCnATE4AAE=
+  </data>
+ </layer>
+ <layer name="Kachelebene1" width="45" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAMCnATE4AAE=
+  </data>
+ </layer>
+ <objectgroup name="Waypoints">
+  <object name="3" type="Waypoint" x="160" y="32" width="8" height="8">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="4" type="Waypoint" x="184" y="40" width="8" height="8">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="5" type="Waypoint" x="200" y="56" width="8" height="8">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="6" type="Waypoint" x="208" y="80" width="8" height="8">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="7" type="Waypoint" x="208" y="96" width="8" height="8">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="8" type="Waypoint" x="200" y="120" width="8" height="8">
+   <properties>
+    <property name="id" value="8"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="9" type="Waypoint" x="184" y="136" width="8" height="8">
+   <properties>
+    <property name="id" value="9"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="10" type="Waypoint" x="160" y="144" width="8" height="8">
+   <properties>
+    <property name="id" value="10"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="11" type="Waypoint" x="144" y="144" width="8" height="8">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="12" type="Waypoint" x="120" y="152" width="8" height="8">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="13" type="Waypoint" x="104" y="168" width="8" height="8">
+   <properties>
+    <property name="id" value="13"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="14" type="Waypoint" x="96" y="192" width="8" height="8">
+   <properties>
+    <property name="id" value="14"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="15" type="Waypoint" x="96" y="208" width="8" height="8">
+   <properties>
+    <property name="id" value="15"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="16" type="Waypoint" x="104" y="232" width="8" height="8">
+   <properties>
+    <property name="id" value="16"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="17" type="Waypoint" x="120" y="248" width="8" height="8">
+   <properties>
+    <property name="id" value="17"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="18" type="Waypoint" x="144" y="256" width="8" height="8">
+   <properties>
+    <property name="id" value="18"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="19" type="Waypoint" x="160" y="256" width="8" height="8">
+   <properties>
+    <property name="id" value="19"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="24" type="Waypoint" x="200" y="168" width="8" height="8">
+   <properties>
+    <property name="id" value="24"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="22" type="Waypoint" x="208" y="208" width="8" height="8">
+   <properties>
+    <property name="id" value="22"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="20" type="Waypoint" x="184" y="248" width="8" height="8">
+   <properties>
+    <property name="id" value="20"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="25" type="Waypoint" x="184" y="152" width="8" height="8">
+   <properties>
+    <property name="id" value="25"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="21" type="Waypoint" x="200" y="232" width="8" height="8">
+   <properties>
+    <property name="id" value="21"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="23" type="Waypoint" x="208" y="192" width="8" height="8">
+   <properties>
+    <property name="id" value="23"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="26" type="Waypoint" x="160" y="144" width="8" height="8">
+   <properties>
+    <property name="id" value="26"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="34" type="Waypoint" x="144" y="32" width="8" height="8">
+   <properties>
+    <property name="id" value="34"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="27" type="Waypoint" x="144" y="144" width="8" height="8">
+   <properties>
+    <property name="id" value="27"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="33" type="Waypoint" x="120" y="40" width="8" height="8">
+   <properties>
+    <property name="id" value="33"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="29" type="Waypoint" x="104" y="120" width="8" height="8">
+   <properties>
+    <property name="id" value="29"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="32" type="Waypoint" x="104" y="56" width="8" height="8">
+   <properties>
+    <property name="id" value="32"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="28" type="Waypoint" x="120" y="136" width="8" height="8">
+   <properties>
+    <property name="id" value="28"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="30" type="Waypoint" x="96" y="96" width="8" height="8">
+   <properties>
+    <property name="id" value="30"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="31" type="Waypoint" x="96" y="80" width="8" height="8">
+   <properties>
+    <property name="id" value="31"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="1" type="Waypoint" x="152" y="88" width="8" height="8">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="52" type="Waypoint" x="152" y="200" width="8" height="8">
+   <properties>
+    <property name="id" value="52"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="43" type="Waypoint" x="144" y="144" width="8" height="8">
+   <properties>
+    <property name="id" value="43"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="50" type="Waypoint" x="144" y="256" width="8" height="8">
+   <properties>
+    <property name="id" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="40" type="Waypoint" x="200" y="120" width="8" height="8">
+   <properties>
+    <property name="id" value="40"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="47" type="Waypoint" x="96" y="208" width="8" height="8">
+   <properties>
+    <property name="id" value="47"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="37" type="Waypoint" x="200" y="56" width="8" height="8">
+   <properties>
+    <property name="id" value="37"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="48" type="Waypoint" x="104" y="232" width="8" height="8">
+   <properties>
+    <property name="id" value="48"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="42" type="Waypoint" x="160" y="144" width="8" height="8">
+   <properties>
+    <property name="id" value="42"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="41" type="Waypoint" x="184" y="136" width="8" height="8">
+   <properties>
+    <property name="id" value="41"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="39" type="Waypoint" x="208" y="96" width="8" height="8">
+   <properties>
+    <property name="id" value="39"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="35" type="Waypoint" x="160" y="32" width="8" height="8">
+   <properties>
+    <property name="id" value="35"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="36" type="Waypoint" x="184" y="40" width="8" height="8">
+   <properties>
+    <property name="id" value="36"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="38" type="Waypoint" x="208" y="80" width="8" height="8">
+   <properties>
+    <property name="id" value="38"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="44" type="Waypoint" x="120" y="152" width="8" height="8">
+   <properties>
+    <property name="id" value="44"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="49" type="Waypoint" x="120" y="248" width="8" height="8">
+   <properties>
+    <property name="id" value="49"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="46" type="Waypoint" x="96" y="192" width="8" height="8">
+   <properties>
+    <property name="id" value="46"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="45" type="Waypoint" x="104" y="168" width="8" height="8">
+   <properties>
+    <property name="id" value="45"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="2" type="Waypoint" x="152" y="32" width="8" height="8">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="51" type="Waypoint" x="152" y="256" width="8" height="8">
+   <properties>
+    <property name="id" value="51"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

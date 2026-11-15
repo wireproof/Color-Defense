@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="70" tilewidth="8" tileheight="8">
+ <layer name="Camera" width="45" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAMCnATE4AAE=
+  </data>
+ </layer>
+ <layer name="Kachelebene1" width="45" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAMCnATE4AAE=
+  </data>
+ </layer>
+ <objectgroup name="Waypoints">
+  <object name="1" type="Waypoint" x="104" y="120" width="8" height="8">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="2" type="Waypoint" x="176" y="120" width="8" height="8">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="3" type="Waypoint" x="192" y="136" width="8" height="8">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="4" type="Waypoint" x="192" y="264" width="8" height="8">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
